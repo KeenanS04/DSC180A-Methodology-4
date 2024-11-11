@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Keenan Serrao
-kserrao@ucsd.edu
+Keenan Serrao and Ansh Mujral
